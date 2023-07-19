@@ -1,1 +1,1 @@
-# meenuPradeepJaiswal-ORMAndSpringMVCAssignmentSolution
+# Spring MVC and ORM
